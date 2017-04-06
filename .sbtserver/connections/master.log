@@ -1,0 +1,13 @@
+New log file opened at Thu Apr 06 09:55:24 BST 2017 by 798@elie-P35V5
+Taking next connection to: 40447
+New client attempting to connect on port: 44604-40447
+  Address = /127.0.1.1:40447
+This client on port 44604 has uuid a1718334-3059-42a4-8ea8-ad61aa766efe configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-a1718334-3059-42a4-8ea8-ad61aa766efe
+Taking next connection to: 40447
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 798@elie-P35V5 logs at Thu Apr 06 09:58:24 BST 2017, goodbye.
